@@ -1,6 +1,6 @@
 /* NAVBAR*/
 body {
-    overflow-x: hidden;
+    overflow: hidden !important;
     font-family: 'Montserrat', sans-serif !important;
     color: white;
 
@@ -24,15 +24,13 @@ body {
     font-size: 13px !important;
 }
 .paa {
-    padding: 120px 0px !important;
+    padding: 100px 0px !important;
 }
 .icon-size {
     width: 20px !important;
 }
 
-.homex {
-    height: fit-content !important;
-}
+
 
 .navbar {
     position: fixed;
