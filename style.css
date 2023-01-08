@@ -1,0 +1,106 @@
+/* NAVBAR*/
+body {
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif !important;
+    color: white;
+
+}
+
+.main-color {
+    color: #C69749 !important;
+}
+.bg-main {
+    background-color:#8b5d12 !important ;
+}
+.home {}
+
+.main-color2 {
+    color: #969292 !important;
+}
+.bordertop{
+    border-top: 1px solid gray;
+}
+.fs-8 {
+    font-size: 13px !important;
+}
+.paa {
+    padding: 120px 0px !important;
+}
+.icon-size {
+    width: 20px !important;
+}
+
+.homex {
+    height: fit-content !important;
+}
+
+.navbar {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    background-color: rgba(0, 0, 0) !important;
+    z-index: 1000;
+}
+
+.bg-black {
+    background-color: rgba(0, 0, 0) !important;
+
+}
+
+#particles-js {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    height: 100vh;
+    margin-top: 100px;
+}
+.skill {
+    width: 25px !important;
+}
+.nav-link {
+    color: white !important;
+    padding: 20px !important;
+}
+.nav-link:hover {
+    color: #C69749 !important;
+    
+}
+.photo {
+    border: 1px solid gray;
+    width: 90% !important;
+}
+
+.photo2 {
+    border: 1px solid gray;
+    width: 75% !important;
+    margin: auto;
+}
+
+.fa-brands {
+    padding: 10px !important;
+}
+
+ul li,
+.section {
+    line-height: 250%;
+}
+
+nav ul li {
+    line-height: 100%;
+}
+.icons .icon {
+   transition: all .5s;
+}
+.icons .icon:hover {
+    color: #C69749 !important;
+}
+
+.projects {
+    border-top: 1px solid gray;
+
+}
+
+.borderb {
+    border-bottom: 1px solid gray;
+}
