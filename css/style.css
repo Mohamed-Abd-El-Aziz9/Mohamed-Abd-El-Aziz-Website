@@ -23,13 +23,15 @@ body {
 .fs-8 {
     font-size: 13px !important;
 }
-
+.paa {
+    padding: 100px 0px;
+}
 .icon-size {
     width: 20px !important;
 }
 
 .homex {
-    height: 130vh !important;
+    height: fit-content !important;
 }
 
 .navbar {
