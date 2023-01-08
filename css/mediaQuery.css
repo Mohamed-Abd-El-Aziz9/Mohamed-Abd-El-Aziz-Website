@@ -5,6 +5,9 @@
         margin-top: 150px;
         text-align: center;
     }
+    #Home {
+        height: fit-content !important;
+    }
 
     .photo,
     .photo2 {

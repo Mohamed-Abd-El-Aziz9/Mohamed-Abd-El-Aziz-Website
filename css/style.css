@@ -24,15 +24,13 @@ body {
     font-size: 13px !important;
 }
 .paa {
-    padding: 100px 0px;
+    padding: 100px 0px !important;
 }
 .icon-size {
     width: 20px !important;
 }
 
-.homex {
-    height: fit-content !important;
-}
+
 
 .navbar {
     position: fixed;
