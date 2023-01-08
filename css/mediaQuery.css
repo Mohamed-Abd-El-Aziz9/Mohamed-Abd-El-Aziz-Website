@@ -1,0 +1,36 @@
+@media screen and (max-width: 500px) {
+
+    .content {
+        align-items: center;
+        margin-top: 150px;
+        text-align: center;
+    }
+
+    .photo,
+    .photo2 {
+        width: 100% !important;
+    }
+
+    .icons,
+    .nav-link {
+        text-align: center;
+        margin: auto;
+    }
+
+    .excontent {
+        display: block !important;
+    }
+
+    nav {
+        position: relative;
+        z-index: 150;
+    }
+
+    .contantme {
+        padding-top: 0px !important;
+        text-align: center;
+    }
+
+
+
+}
